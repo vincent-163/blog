@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vincent163's blog</title>
+    <link>https://blog.v-163.top/</link>
+    <description>题解、Writeup、游记和碎碎念</description>
+    <language>zh-hans-cn</language>
+    <lastBuildDate>2021-11-21T09:53:10.799Z</lastBuildDate>
+    <atom:link href="https://blog.v-163.top/feed/" rel="self" type="application/rss+xml" />
+    <item>
+  <title>友情链接</title>
+  <link>https://blog.vincent-163.top/friends/</link>
+  <guid>https://blog.vincent-163.top/friends/</guid>
+  <pubDate>2021-11-21T00:00:00.000Z</pubDate>
+  <description><![CDATA[ <p>这个列表目前太空荡了，欢迎各位 dalao 来加友链！</p>
+ ]]></description>
+</item><item>
+  <title>新博客测试</title>
+  <link>https://blog.vincent-163.top/posts/2021-11-21-blogtest/</link>
+  <guid>https://blog.vincent-163.top/posts/2021-11-21-blogtest/</guid>
+  <pubDate>2021-11-21T00:00:00.000Z</pubDate>
+  <description><![CDATA[ <p>已经不知道自己写过几个博客了，每次都是发了几篇文章，没人看，然后就不再去更新了，最后随着域名、服务器的到期而消逝。不知道这个博客又能持续多久呢...</p>
+<p>这回用的是 mcfx 的博客模板和生成器（<a href="https://github.com/mcfx/blogen">https://github.com/mcfx/blogen</a>），希望能多用一会儿吧。</p>
+ ]]></description>
+</item><item>
+  <title>关于</title>
+  <link>https://blog.vincent-163.top/about/</link>
+  <guid>https://blog.vincent-163.top/about/</guid>
+  <pubDate>2021-11-21T00:00:00.000Z</pubDate>
+  <description><![CDATA[ <p>这里什么都没写。</p>
+ ]]></description>
+</item>
+  </channel>
+</rss>
